@@ -233,7 +233,7 @@ h4,
     height: 100vh;
     display: flex;
     align-items: center;
-    background: url('/assets/hero-bg.png') no-repeat center center/cover;
+    background: url('/assets/hero-factory.jpg') no-repeat center center/cover;
     position: relative;
     overflow: hidden;
 }
